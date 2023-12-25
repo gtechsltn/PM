@@ -29,10 +29,10 @@
 
 Ma trận RACI là một dạng của ma trận gán trách nhiệm (RAM). RACI là viết tắt của 4 chữ:
 
-- R - Responsible: trách nhiệm thực thi.
-- A - Accountable: trách nhiệm giải trình.
-- C - Consult: tham vấn.
-- I - Inform: thông báo.
+- R - **Responsible**: trách nhiệm thực thi.
+- A - **Accountable**: trách nhiệm giải trình.
+- C - **Consult**: tham vấn.
+- I - **Inform**: thông báo.
 
 ## Resource Plan Template
 + https://docs.google.com/spreadsheets/d/1JoVDyAy-ZBD__8CZOssHwPSiQ1GWLoYw/edit#gid=1152046304
