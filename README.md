@@ -22,8 +22,17 @@
 ## Task Tracking Template
 + https://docs.google.com/spreadsheets/d/1Gr0oo-M5R6-vMeYhU6rTAkdG0scr5e9o/edit#gid=1166770836
 
-## RACI Matrix Template 
+## RACI Matrix Template
 + https://docs.google.com/spreadsheets/d/1MMaTPWSzo6Kur9opfYRpZihN17J772wg/edit#gid=46845620
+
+### Ma trận RACI (RACI matrix) là gì?
+
+Ma trận RACI là một dạng của ma trận gán trách nhiệm (RAM). RACI là viết tắt của 4 chữ:
+
+- R - Responsible: trách nhiệm thực thi.
+- A - Accountable: trách nhiệm giải trình.
+- C - Consult: tham vấn.
+- I - Inform: thông báo.
 
 ## Resource Plan Template
 + https://docs.google.com/spreadsheets/d/1JoVDyAy-ZBD__8CZOssHwPSiQ1GWLoYw/edit#gid=1152046304
