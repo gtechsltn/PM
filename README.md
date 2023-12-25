@@ -36,7 +36,7 @@ Ma trận RACI là một dạng của ma trận gán trách nhiệm (RAM). RACI 
 
 ![image](https://github.com/gtechsltn/PM/assets/87538251/7a06ef8c-8525-498e-b609-b4fffd6df7e4)
 
-https://springo.vn/raci-ma-tran-xac-dinh-trach-nhiem-vai-tro-nhan-su-trong-sop
+**Tham khảo**: https://springo.vn/raci-ma-tran-xac-dinh-trach-nhiem-vai-tro-nhan-su-trong-sop
 
 ## Resource Plan Template
 + https://docs.google.com/spreadsheets/d/1JoVDyAy-ZBD__8CZOssHwPSiQ1GWLoYw/edit#gid=1152046304
